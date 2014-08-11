@@ -43,7 +43,7 @@ body {
 	font-style: italic;
 	text-align: center;
 }#slider-wrapper{
-      width: 940px;
+      width: 800px;
       height: 470px;
       margin: 50px auto;
       position: relative;
@@ -58,9 +58,9 @@ body {
           position: absolute;
           left: 50%;
           bottom: 25px;
-          margin-left: -36px;
+          margin-left: -96px;
           border-radius: 20px;
-          opacity: 0.3;
+          opacity: 0.5;
           cursor: pointer;
           z-index: 999;
         }
@@ -71,9 +71,9 @@ body {
           position: absolute;
           left: 50%;
           bottom: 25px;
-          margin-left: -12px;
+          margin-left: -72px;
           border-radius: 20px;
-          opacity: 0.3;
+          opacity: 0.5;
           cursor: pointer;
           z-index: 999;
         }
@@ -84,9 +84,9 @@ body {
           position: absolute;
           left: 50%;
           bottom: 25px;
-          margin-left: 12px;
+          margin-left: -48px;
           border-radius: 20px;
-          opacity: 0.3;
+          opacity: 0.5;
           cursor: pointer;
           z-index: 999;
         }
@@ -97,9 +97,9 @@ body {
           position: absolute;
           left: 50%;
           bottom: 25px;
-          margin-left: 36px;
+          margin-left: -24px;
           border-radius: 20px;
-          opacity: 0.3;
+          opacity: 0.5;
           cursor: pointer;
           z-index: 999;
         }
