@@ -43,6 +43,4 @@ jQuery(document).ready(function ($) {
         moveRight();
     });
 
-$('button').click(function () {
-
 
