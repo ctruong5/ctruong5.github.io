@@ -43,4 +43,7 @@ jQuery(document).ready(function ($) {
         moveRight();
     });
 
+  $jQuery('selector').slippry()
+});
+
 $(document).ready(main);
